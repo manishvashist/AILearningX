@@ -1,0 +1,9 @@
+{
+  "name": "Interactive Learning Companion",
+  "description": "An app to help children recognize objects, learn about them, and engage with related stories and utilities through interactive experiences.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "prompt": ""
+}
